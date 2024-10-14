@@ -40,11 +40,11 @@ python hand_gesture_keyboard.py
 
 3) Control the Virtual Keyboard:
 
-Use your index finger to hover over the virtual keys displayed on the screen.
-Tap with your index finger to press a key and simulate typing.
+- Use your index finger to hover over the virtual keys displayed on the screen.
+- Tap with your index finger to press a key and simulate typing.
 
 4) Exit:
-Press the q key to quit the application.
+- Press the q key to quit the application.
 
 ---
 
